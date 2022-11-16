@@ -6,7 +6,7 @@
 
 * Clone the project
 ```
-git clone git@bitbucket.org:luizaalanis/setup.git
+git clone git@github.com:LuizaAlanis/setup.git
 ```
 
 * Make sure you have access for each repository you want to clone with shell
